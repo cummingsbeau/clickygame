@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.pinimg.com/originals/87/c0/34/87c03491a1785c90021111936dc6549e.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Philip_Fry.png/220px-Philip_Fry.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://i.pinimg.com/originals/b0/70/b8/b070b858f768d056025288df4f268df2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://i.pinimg.com/originals/53/d0/5e/53d05e9e0de18a6de4d9d5ce73ed5d1e.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Turanga_Leela.png/150px-Turanga_Leela.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Dr_John_Zoidberg.png/200px-Dr_John_Zoidberg.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/characters/images/e/ee/Kif_Kroker.png/revision/latest?cb=20171114012358",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://img.sharetv.com/shows/characters/large/futurama.hermes_conrad.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://tvmedia.ign.com/tv/image/article/110/1100619/futurama-20100621001650405.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://i.pinimg.com/originals/4d/11/0f/4d110f0e42ad6cbdc04e4080c2dd69f2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1rIxeaqj0hRJBtTDFW2DJEQszG6EpOn7WyGg-4Gu33iewGsx",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://static.comicvine.com/uploads/scale_small/0/40/253686-2072-sal.JPG",
+    "clicked": false
+  }
+]
+
+
+
